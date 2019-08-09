@@ -52,3 +52,5 @@ while i < 101:
 
 for k,v in zip(td.keys(),td.values()):
     print(k,v)
+
+print("......")
